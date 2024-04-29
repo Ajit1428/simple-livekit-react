@@ -1,0 +1,28 @@
+.lk-disconnect-button {
+  background-color: red !important;
+  color: white !important;
+  border-radius: 10px !important;
+}
+
+.lk-button {
+  background-color: #fab387 !important;
+  color: black !important;
+  border-radius: 10px !important;
+}
+
+.lk-chat-toggle {
+  background-color: #a6e3a1 !important;
+  color: black !important;
+  border-radius: 10px !important;
+}
+
+.lk-button-menu {
+  background-color: #f9e2af !important;
+  color: black !important;
+  border-radius: 10px !important;
+  margin-left: 1px !important;
+}
+
+.lk-participant-media-video {
+  height: 60rem !important;
+}
